@@ -28,7 +28,7 @@ The goal of this project is to build a basic neural network capable of performin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/build-neural-network-from-scratch.git
+   git clone https://github.com/Rakshit-gen/NN-scratch
    ```
 
 2. **Install required libraries:**
@@ -38,7 +38,7 @@ The goal of this project is to build a basic neural network capable of performin
 
 3. **Run the Python script:**
    ```bash
-   python neural_network.py
+   python nn.py
    ```
 
 4. **Explore the code:** 
